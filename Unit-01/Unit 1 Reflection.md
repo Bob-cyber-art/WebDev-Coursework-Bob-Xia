@@ -1,3 +1,7 @@
 # Unit 1 Reflection
 
-[for this chapter that I firstly start my way on web development, although i learn the python and c++, it still be a little hard for me to do it. Because the ]
+[When I first started this chapter on web development, I felt both interested and challenged. Even though I had already learned some Python and C++, web development was still a little hard for me at the beginning. The main reason is that the logic of web development is different from the logic of programming in Python and C++. In Python and C++, I usually focus more on calculations, conditions, loops, and solving problems step by step. However, in web development, I need to think more about how to show content on a web page and how the page looks to the user.
+
+At first, this difference made me feel a little confused. I was not used to writing code that controls the structure and appearance of a page instead of just running a program in the background. But after learning more, I slowly began to understand the basic idea of web development. I learned that languages like HTML can be used to show words, titles, and other content on a web page. For example, I learned how to put words on the page, how to make some words bold, and how to organize text so that it looks clear and easy to read.
+
+Although these skills may seem simple, they helped me build a foundation for future learning. I now understand that web development is not only about writing code, but also about thinking about design, layout, and user experience. This chapter gave me a new way of looking at programming. Even if it is still a little difficult for me now, I think I am making progress. I believe that if I keep practicing, I will become more confident and better at web development in the future.]
