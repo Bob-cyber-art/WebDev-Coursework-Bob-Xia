@@ -1,3 +1,7 @@
 # Unit 6 Reflection
 
-[Reflect on your journey here]
+[[In this unit, I learned how to change the color and style of text in HTML. For example, I learned how to use different tags and styles to make the words on a web page clearer, more attractive, and easier for users to notice. Although these skills may seem basic, I think they are very useful in web design. A good website does not only need content; it also needs to present the content in a clear and effective way.
+
+Through this unit, I began to understand that web design is not just about putting words on a page. It is also about thinking about how to make the page look organized and comfortable for users to read. The color, size, boldness, and style of the font can all affect the user’s first impression of a website. If the colors do not match well, or if the text style is too messy, the website may look unprofessional and difficult to read. Because of this, learning these basic HTML skills helped me understand web development more deeply.
+
+After finishing this unit, I also had some new thoughts and reflections about my own web development. I realized that web design requires both technical skills and a sense of design. As a beginner, I need to learn not only how to write code, but also how to think from the user’s point of view. In the future, when I create my own web pages, I will pay more attention to text layout, color choices, and the overall style of the page. I hope my website can become clearer, more beautiful, and more useful for users]
